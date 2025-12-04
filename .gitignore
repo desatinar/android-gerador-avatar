@@ -1,0 +1,22 @@
+# Arquivos gerados pelo sistema de build
+.gradle/
+build/
+
+# Arquivos de configuração local (não devem ser compartilhados)
+local.properties
+.idea/workspace.xml
+.idea/libraries/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e temporários
+*.log
+*.apk
+*.aab
+*.ap_
+
+# Arquivos do emulador e do dispositivo
+/captures/
+.cxx/
