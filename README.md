@@ -1,4 +1,4 @@
-# Gerador de Avatar - Android
+# Gerador de Avatar - Android 
 
 Aplicativo Android nativo desenvolvido em Kotlin que permite criar, visualizar, editar e deletar avatares gerados por IA através de prompts de texto.
 
@@ -171,11 +171,3 @@ Este projeto é de código aberto e está disponível para uso educacional.
 
 - GitHub: [@desatinar](https://github.com/desatinar)
 - Repositório: [android-gerador-avatar](https://github.com/desatinar/android-gerador-avatar)
-
-## Screenshots
-
-_Em breve: adicione capturas de tela do aplicativo aqui_
-
----
-
-Se este projeto foi útil para você, considere dar uma estrela no repositório!
